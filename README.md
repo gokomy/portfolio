@@ -20,3 +20,5 @@ ____
 
 # примеры работ
 ![работа](https://github.com/gokomy/portfolio/blob/master/projects/illustrator/февраль%20иллюстратор.png)
+![работа](https://github.com/gokomy/portfolio/blob/master/projects/krita/май%20крита%20.jpg)
+![работа](https://github.com/gokomy/portfolio/blob/master/projects/illustrator/март%20иллюстратор.png)
