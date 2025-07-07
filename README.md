@@ -16,8 +16,8 @@ ____
 ***
 **Соцсети**
 
--[телеграм](https://t.me/gokomyyy)
--[вконтакте](http://vk.com/gokomyyy)
+*[телеграм](https://t.me/gokomyyy)
+*[вконтакте](http://vk.com/gokomyyy)
 
 # Примеры работ
 ___
