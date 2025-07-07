@@ -7,11 +7,11 @@ ____
 ***
 ### программы, которые я осваиваю:
 * Figma
-* Photoshop
+* [Photoshop](#Photoshop)
 * [Illustrator](#Illustrator)
 * Skechup
 * After effects
-* Krita
+* [Krita](#Krita)
 * coralDRAW
 ***
 **соцсети**
@@ -19,7 +19,11 @@ ____
 [вконтакте](http://vk.com/gokomyyy)
 
 # примеры работ
-![работа](https://github.com/gokomy/portfolio/blob/master/projects/illustrator/февраль%20иллюстратор.png)
+## Krita
 ![работа](https://github.com/gokomy/portfolio/blob/master/projects/krita/май%20крита%20.jpg)
 ## Illustrator
 ![работа](https://github.com/gokomy/portfolio/blob/master/projects/illustrator/март%20иллюстратор.jpg)
+![работа](https://github.com/gokomy/portfolio/blob/master/projects/illustrator/февраль%20иллюстратор.png)
+## Photoshop
+![работа](https://github.com/gokomy/portfolio/blob/master/projects/photoshop/апрель%20фотошоп_y-восстановлено%20(1).png)
+![работа](https://github.com/gokomy/portfolio/blob/master/projects/photoshop/февраль%20фотошоп.png)
