@@ -6,13 +6,13 @@ ____
 
 ***
 ### Программы, которые я осваиваю:
-* Figma
+* [Krita](#Krita)
 * [Photoshop](#Photoshop)
 * [Illustrator](#Illustrator)
-* Skechup
+* 	6[coralDRAW](#coralDRAW)
 * After effects
-* [Krita](#Krita)
-* [coralDRAW](#coralDRAW)
+* Figma
+* Skechup
 ***
 **Соцсети**
 [телеграм](https://t.me/gokomyyy)
