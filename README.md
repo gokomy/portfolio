@@ -9,7 +9,7 @@ ____
 * [Krita](#Krita)
 * [Photoshop](#Photoshop)
 * [Illustrator](#Illustrator)
-* 	6[coralDRAW](#coralDRAW)
+* [coralDRAW](#coralDRAW)
 * After effects
 * Figma
 * Skechup
