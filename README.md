@@ -1,24 +1,24 @@
 # GOKOMY
 
 ____
-## немного о себе
+## Немного о себе
 Привет, Меня зовут Даша, мне 17 лет и я рисую уже на протяжении 6 лет,последние 4 года занимаюсь в художественной школе, так же сама начинаю осваивать различные программы для графических и диджитл дизайнеров в растровой и векторной графике. В будующем мечтаю работать графическим дизайнером, дизайнером одежды и текстиля или пространственным дизайнером.
 
 ***
-### программы, которые я осваиваю:
+### Программы, которые я осваиваю:
 * Figma
 * [Photoshop](#Photoshop)
 * [Illustrator](#Illustrator)
 * Skechup
 * After effects
 * [Krita](#Krita)
-* coralDRAW
+* [coralDRAW](#coralDRAW)
 ***
-**соцсети**
+**Соцсети**
 [телеграм](https://t.me/gokomyyy)
 [вконтакте](http://vk.com/gokomyyy)
 
-# примеры работ
+# Примеры работ
 ## Krita
 ![работа](https://github.com/gokomy/portfolio/blob/master/projects/krita/май%20крита%20.jpg)
 ## Illustrator
@@ -27,3 +27,6 @@ ____
 ## Photoshop
 ![работа](https://github.com/gokomy/portfolio/blob/master/projects/photoshop/апрель%20фотошоп_y-восстановлено%20(1).png)
 ![работа](https://github.com/gokomy/portfolio/blob/master/projects/photoshop/февраль%20фотошоп.png)
+## coralDRAW
+![работа](https://github.com/gokomy/portfolio/blob/master/projects/corelDRAW/июнькрлдр-2_page-0001.jpg)
+![работа](https://github.com/gokomy/portfolio/blob/master/projects/corelDRAW/июнькрлдр-1_page-0001.jpg)
