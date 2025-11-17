@@ -36,3 +36,4 @@ ___
 ![работа](https://github.com/gokomy/portfolio/blob/master/projects/corelDRAW/июнькрлдр-2_page-0001.jpg)
 ![работа](https://github.com/gokomy/portfolio/blob/master/projects/corelDRAW/июнькрлдр-1_page-0001.jpg)
 ___
+
