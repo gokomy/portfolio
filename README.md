@@ -1,4 +1,4 @@
-# GOKOMY
+[![Ввод SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=10000&pause=1000&color=B30000&background=FF33D100&width=440&height=100&lines=GOKOMY)](https://git.io/typing-svg)
 
 ____
 ## Немного о себе
@@ -14,10 +14,11 @@ ____
 * Figma
 * Skechup
 ***
-### **Соцсети**
+### **Соцсети:**
 
 * [телеграм](https://t.me/gokomyyy)
 * [вконтакте](http://vk.com/gokomyyy)
+* [email](dariadak1990@gmail.com)
 
 # Примеры работ
 ___
@@ -27,7 +28,7 @@ ___
 ## Illustrator
 ![работа](https://github.com/gokomy/portfolio/blob/master/projects/illustrator/март%20иллюстратор.jpg)
 ![работа](https://github.com/gokomy/portfolio/blob/master/projects/illustrator/февраль%20иллюстратор.png)
-![работа](
+![работа](https://github.com/gokomy/portfolio/blob/master/projects/illustrator/Август%20ил.png)
 ___
 ## Photoshop
 ![работа](https://github.com/gokomy/portfolio/blob/master/projects/photoshop/апрель%20фотошоп_y-восстановлено%20(1).png)
