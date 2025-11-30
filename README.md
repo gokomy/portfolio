@@ -2,7 +2,7 @@
 
 ____
 ## Немного о себе
-Привет, Меня зовут Даша, мне 17 лет и я рисую уже на протяжении 6 лет,последние 4 года занимаюсь в художественной школе, так же сама начинаю осваивать различные программы для графических и диджитл дизайнеров в растровой и векторной графике. В будующем мечтаю работать графическим дизайнером, дизайнером одежды и текстиля или пространственным дизайнером. Больше всего я работаю в Illbstrator  и чуть реже в Photoshop и After effects.  Ниже будут представлены некоторые из моих работ.
+Привет, Меня зовут Даша, мне 17 лет и я рисую уже на протяжении 6 лет,последние 4 года занимаюсь в художественной школе, так же сама начинаю осваивать различные программы для графических и диджитл дизайнеров в растровой и векторной графике. В будующем мечтаю работать графическим дизайнером, дизайнером одежды и текстиля или пространственным дизайнером. Больше всего я работаю в Illbstrator  и чуть реже в Photoshop и After effects, также есть опыт работы с нейросетями.  Ниже будут представлены некоторые из моих работ.
 
 ***
 ### Освоенные программы:
@@ -26,20 +26,19 @@ ___
 ![работа](https://github.com/gokomy/portfolio/blob/master/projects/krita/май%20крита%20.jpg)
 ___
 ## Illustrator
-![работа](https://github.com/gokomy/portfolio/blob/master/projects/illustrator/март%20иллюстратор.jpg)
+<img src="https://github.com/gokomy/portfolio/blob/master/projects/illustrator/март%20иллюстратор.jpg" width=50% height=50%><img src="https://github.com/gokomy/portfolio/blob/master/projects/illustrator/Август%20ил.png" width=50% height=50%>
 ![работа](https://github.com/gokomy/portfolio/blob/master/projects/illustrator/февраль%20иллюстратор.png)
-![работа](https://github.com/gokomy/portfolio/blob/master/projects/illustrator/Август%20ил.png)
+
 ___
 ## Photoshop
 ![работа](https://github.com/gokomy/portfolio/blob/master/projects/photoshop/апрель%20фотошоп_y-восстановлено%20(1).png)
 ![работа](https://github.com/gokomy/portfolio/blob/master/projects/photoshop/февраль%20фотошоп.png)
 ___
 ## coralDRAW
-![работа](https://github.com/gokomy/portfolio/blob/master/projects/corelDRAW/июнькрлдр-2_page-0001.jpg)
-![работа](https://github.com/gokomy/portfolio/blob/master/projects/corelDRAW/июнькрлдр-1_page-0001.jpg)
+<img src="https://github.com/gokomy/portfolio/blob/master/projects/corelDRAW/июнькрлдр-2_page-0001.jpg" width=50% height=50%><img src="https://github.com/gokomy/portfolio/blob/master/projects/corelDRAW/июнькрлдр-1_page-0001.jpg" width=50% height=50%>
+
 ___
-## Aftereffects
-![IMG_4531-_1_](https://github.com/user-attachments/assets/110e698d-e3ad-481c-a9d8-73e549dcb9cc)
+## After effects
+<img src="https://github.com/user-attachments/assets/110e698d-e3ad-481c-a9d8-73e549dcb9cc" width=50% height=50%> 
 
-
-
+# Набор анимированных стикеров в телеграме. Нарисованны в Illustrator, анимированны при помощи нейросетей open ui.
