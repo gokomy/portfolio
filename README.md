@@ -20,7 +20,7 @@ ____
 * [вконтакте](http://vk.com/gokomyyy)
 * [email](dariadak1990@gmail.com)
 
-# $$\color{red} Примеры работ $$
+# $$\color{red} Примеры \space работ $$
 ___
 ## Krita
 ![работа](https://github.com/gokomy/portfolio/blob/master/projects/krita/май%20крита%20.jpg)
