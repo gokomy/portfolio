@@ -34,10 +34,10 @@ ___
 ## Illustrator
 <img src="https://github.com/gokomy/portfolio/blob/master/projects/illustrator/март%20иллюстратор.jpg" width=50% height=50%><img src="https://github.com/gokomy/portfolio/blob/master/projects/illustrator/Август%20ил.png" width=50% height=50%>
 ![работа](https://github.com/gokomy/portfolio/blob/master/projects/illustrator/февраль%20иллюстратор.png) 
-- различные иллюстрации.
+# - различные иллюстрации.
 
 ![работа](https://github.com/gokomy/portfolio/blob/master/projects/illustrator/соки.jpg)
-- упаковки сока, нарисованы в illusrstor, мокап сделан в программе photoshop.
+# - упаковки сока, нарисованы в illusrstor, мокап сделан в программе photoshop.
 ___
 ## Photoshop
 ![работа](https://github.com/gokomy/portfolio/blob/master/projects/photoshop/апрель%20фотошоп_y-восстановлено%20(1).png)
