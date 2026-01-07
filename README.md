@@ -14,6 +14,12 @@ ____
 * Figma
 * Skechup
 ***
+
+## ? Контакты
+- Email: rustam@example.com
+- LinkedIn: linkedin.com/in/rustam_example
+- Telegram: @rustam_dev_example
+
 ### **Соцсети:**
 
 * [телеграм](https://t.me/gokomyyy)
@@ -41,4 +47,4 @@ ___
 ## After effects
 <img src="https://github.com/user-attachments/assets/110e698d-e3ad-481c-a9d8-73e549dcb9cc" width=50% height=50%> 
 
-# Набор анимированных стикеров в телеграме. Нарисованны в Illustrator, анимированны при помощи нейросетей open ui.
+# Набор анимированных стикеров в телеграме. Нарисованны в Illustrator, анимированны при помощи нейросетей open ai.
