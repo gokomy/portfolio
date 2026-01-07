@@ -37,7 +37,8 @@ ___
 # - $$\color{blue} различные \space иллюстрации. $$
 
 ![работа](https://github.com/gokomy/portfolio/blob/master/projects/illustrator/соки.jpg)
-# - $$\color{blue} упаковка \space сока, \space нарисованны \space в \space illustrator, \space мокап \space сделан \space в \space программе \space photoshop. $$
+# - $$\color{blue} упаковки \space сока, \space нарисованны \space в \space illustrator, \space мокап \space сделан 
+\space в \space программе \space photoshop. $$
 ___
 ## Photoshop
 ![работа](https://github.com/gokomy/portfolio/blob/master/projects/photoshop/апрель%20фотошоп_y-восстановлено%20(1).png)
