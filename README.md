@@ -15,10 +15,6 @@ ____
 * Skechup
 ***
 
-## ? Контакты
-- Email: rustam@example.com
-- LinkedIn: linkedin.com/in/rustam_example
-- Telegram: @rustam_dev_example
 
 ### **Соцсети:**
 
