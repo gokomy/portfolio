@@ -31,7 +31,7 @@ ___
 
 ___
 ## Affinity
-![работа]()
+![работа](https://github.com/gokomy/portfolio/blob/master/projects/affinity/февраль.png)
 ___
 ## Illustrator
 <img src="https://github.com/gokomy/portfolio/blob/master/projects/illustrator/март%20иллюстратор.jpg" width=50% height=50%><img src="https://github.com/gokomy/portfolio/blob/master/projects/illustrator/Август%20ил.png" width=50% height=50%>
