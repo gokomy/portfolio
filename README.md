@@ -57,5 +57,9 @@ ___
 
 ___
 ___
-### Скетчи :)
+# Скетчиии :)
 <img src=https://github.com/gokomy/portfolio/blob/master/projects/sketches/collage.jpg> 
+<img src=
+<img src=
+<img src=
+<img src=
