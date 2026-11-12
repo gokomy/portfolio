@@ -59,6 +59,6 @@ ___
 ___
 # Скетчиии :)
 <img src=https://github.com/gokomy/portfolio/blob/master/projects/sketches/collage.jpg> 
-<img src="https://github.com/gokomy/portfolio/blob/master/projects/sketches/sketch%202.jpg" width=60% height=60%><img src="https://github.com/gokomy/portfolio/blob/master/projects/sketches/sketch.1.jpg" width=60% height=60%>
+<img src="https://github.com/gokomy/portfolio/blob/master/projects/sketches/sketch%202.jpg" width=60% height=60%><img src="https://github.com/gokomy/portfolio/blob/master/projects/sketches/sketch.1.jpg">
 <img src=https://github.com/gokomy/portfolio/blob/master/projects/sketches/sketch.3.jpg>
 <img src=https://github.com/gokomy/portfolio/blob/master/projects/sketches/sketch.4.jpg>
