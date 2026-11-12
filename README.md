@@ -58,3 +58,4 @@ ___
 ___
 ___
 ### Скетчи :)
+<img https://github.com/gokomy/portfolio/blob/master/projects/sketches/collage.jpg> 
